@@ -1,2 +1,2 @@
 # FFCS-master
-bird sound classificatioin method
+our code is comming soon
